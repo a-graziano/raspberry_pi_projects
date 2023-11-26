@@ -55,6 +55,9 @@ try:
 
         # Check if the tilt state has changed
         if tilt_state == 1:  # Tilted
+            print("Tilt switch activated!") # Print a message when tilted
+        else:
+            print("Tilt switch not active.")  # Print a message when not tilted
             for color in christmas_colors:
                 transitioned_colors = transition_color(current_color, color, 50)  # Adjust steps for transition
                 for new_color in transitioned_colors:
