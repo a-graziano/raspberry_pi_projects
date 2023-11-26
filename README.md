@@ -1,3 +1,3 @@
 # Raspberry Pi projects
 
-A series of small raspberry pi projects
+<p>A series of small raspberry pi projects</p>
