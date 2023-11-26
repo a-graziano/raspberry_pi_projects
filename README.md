@@ -1,1 +1,3 @@
-# raspberry_pi_projects
+# Raspberry Pi projects
+
+A series of small raspberry pi projects
